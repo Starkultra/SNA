@@ -1,7 +1,4 @@
-# in_silico_identification
-
-In Silico Identification Project.
-
+#SNA - BASED REAL WORLD PROBLEM
 ## Dataset
 
 Use the download.sh script to download the dataset
