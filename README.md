@@ -1,4 +1,4 @@
-##SNA - BASED REAL WORLD PROBLEM
+# SNA - BASED REAL WORLD PROBLEM
 ## Dataset
 
 Use the download.sh script to download the dataset
